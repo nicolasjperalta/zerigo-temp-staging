@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/zerigo-temp-staging/static/css/main.e9dfc5cc.css",
+    "main.js": "/zerigo-temp-staging/static/js/main.39888ee0.js",
+    "static/js/787.b0e7975c.chunk.js": "/zerigo-temp-staging/static/js/787.b0e7975c.chunk.js",
+    "static/media/hero-1.png": "/zerigo-temp-staging/static/media/hero-1.0ee18695a016dffdd4bb.png",
+    "static/media/hero-page-2.png": "/zerigo-temp-staging/static/media/hero-page-2.d3b8b1a1af09df9292f3.png",
+    "static/media/emily.png": "/zerigo-temp-staging/static/media/emily.c340692433f9df1286ad.png",
+    "static/media/Rx-Prescription_Prescription-Form.png": "/zerigo-temp-staging/static/media/Rx-Prescription_Prescription-Form.a0040c666ac491b29c97.png",
+    "static/media/hero-2.png": "/zerigo-temp-staging/static/media/hero-2.8503d73f977d197927c0.png",
+    "static/media/image_147.png": "/zerigo-temp-staging/static/media/image_147.50e8cbfb999f6d0977f6.png",
+    "static/media/IMG_0338.png": "/zerigo-temp-staging/static/media/IMG_0338.aea7062e4016b92b0d9f.png",
+    "static/media/Stocksy_comp_3203444.png": "/zerigo-temp-staging/static/media/Stocksy_comp_3203444.50f366b4d0fe9be352ac.png",
+    "static/media/Stocksy_comp_4603534.png": "/zerigo-temp-staging/static/media/Stocksy_comp_4603534.d863235a76fd48d23577.png",
+    "static/media/zerigocare-support.png": "/zerigo-temp-staging/static/media/zerigocare-support.c664895791e6eddf0be8.png",
+    "static/media/precizedose.png": "/zerigo-temp-staging/static/media/precizedose.605607bf599a58decfc4.png",
+    "static/media/your_care.png": "/zerigo-temp-staging/static/media/your_care.7684923bafccb4c326d4.png",
+    "static/media/smart-light-device.png": "/zerigo-temp-staging/static/media/smart-light-device.335095609544c6df2ffd.png",
+    "static/media/Frame_346.png": "/zerigo-temp-staging/static/media/Frame_346.74bfe2433deef11a1b23.png",
+    "static/media/logo.svg": "/zerigo-temp-staging/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/zerigo-temp-staging/index.html",
+    "main.e9dfc5cc.css.map": "/zerigo-temp-staging/static/css/main.e9dfc5cc.css.map",
+    "main.39888ee0.js.map": "/zerigo-temp-staging/static/js/main.39888ee0.js.map",
+    "787.b0e7975c.chunk.js.map": "/zerigo-temp-staging/static/js/787.b0e7975c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9dfc5cc.css",
+    "static/js/main.39888ee0.js"
+  ]
+}
